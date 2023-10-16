@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "practice_app",
+    "slug": "practice_app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "490da98f-3d34-40dd-8a2c-4d220b815363"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/490da98f-3d34-40dd-8a2c-4d220b815363"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
